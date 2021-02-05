@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "aGtaj9p/4V5hv/qub9nITMrdj794RCs8qjZSpo2BtJIaV/VvRjrKJVhhHN2F6FQ9GULu+evcFPJm+p5D7Y3Jdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\03. Guild_Skeleton\\Guild\\Guild.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
